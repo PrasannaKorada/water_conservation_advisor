@@ -14,3 +14,26 @@ This Streamlit-based application offers personalized water-saving tips based on 
 1. Install requirements:
    ```bash
    pip install streamlit openai
+   
+2. Add your OpenAI API key to .streamlit/secrets.toml:
+   ```bash
+   [OPENAI_API_KEY]
+   key = "your-api-key"
+3. Run the app:
+
+   ```bash
+   streamlit run app.py
+✨ Example Inputs
+   Family size: 4
+
+   Shower time: 15 minutes
+
+   Garden watering: Yes
+
+   Washing machine: Yes
+
+   Monthly bill: ₹500
+
+👤 Author
+Prasanna Korada
+
