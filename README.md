@@ -23,7 +23,7 @@ This Streamlit-based application offers personalized water-saving tips based on 
 
    ```bash
    streamlit run app.py
-✨ Example Inputs
+## ✨ Example Inputs
    Family size: 4
 
    Shower time: 15 minutes
@@ -34,6 +34,6 @@ This Streamlit-based application offers personalized water-saving tips based on 
 
    Monthly bill: ₹500
 
-👤 Author
+## 👤 Author
 Prasanna Korada
 
